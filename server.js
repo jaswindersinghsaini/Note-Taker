@@ -4,7 +4,7 @@ const app = express();
 
 const router = require('./routes/apiRouter');
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 //Implement middleware for parsing of URL encoded data
 app.use(express.urlencoded({ extended: true }));
