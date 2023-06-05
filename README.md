@@ -15,7 +15,7 @@
   Note taking application which creates notes to remind user their task.
 
   ## Installation
-  go to  to use the note taker. 
+  go to https://secure-taiga-07501.herokuapp.com/ to use the note taker. 
 
   ## Usage
   Uses a server to host the application created in node.
@@ -32,8 +32,6 @@
   ## Questions
   * Github Link: https://github.com/jaswindersinghsaini/Note-Taker
   * Email: jaswindersinghsaini@gmail.com
-
-
-
-
+  
+  
 
