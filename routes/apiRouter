@@ -33,10 +33,4 @@ router.post("/notes", (req, res) => {
   }
 });
 
-router.delete('/api/notes/:id', (req, res) => {
-    if(newNote.id){
-        newNote = {};
-    }
-});
-
 module.exports = router;
